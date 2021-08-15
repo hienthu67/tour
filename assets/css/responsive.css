@@ -1,0 +1,36 @@
+@media (max-width: 1140px) {
+    header .card h2 {
+        font-size: 24px;
+    }
+    header .card a {
+        width: auto;
+        padding: 8px 15px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 767px) {
+    header .card h2 {
+        font-size: 36px;
+    }
+    header .card a {
+        width: auto;
+        padding: 12px 15px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 500px) {
+    header .card h2 {
+        font-size: 24px;
+    }
+    header .card a {
+        width: auto;
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+    .col-md-6 .card{
+        margin: 0px a;
+    }
+
+}
